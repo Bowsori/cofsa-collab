@@ -1,0 +1,394 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "COFSA",
+				"abbreviation": "CoFS:A",
+				"full": "The Compendium of Forgotten Secrets: Awakening",
+				"authors": [
+					"Genuine Fantasy Press",
+					"William Hudson King"
+				],
+				"convertedBy": [
+					"Joe",
+					"Modnar",
+					"EldritchTiefling"
+				],
+				"version": "1.6",
+				"url": "https://www.genfantasypress.com",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"optionalFeatureTypes": {
+			"maneuvers": "Maneuvers"
+		},
+		"dateAdded": 1537874753
+	},
+    "table": [
+		{
+			"name": "Traits of the Archivist",
+			"source": "COFSA",
+			"intro": [
+				"When creating a warlock or after spending time researching in the Archive, consider adding one or more of the following traits to your character."
+			],
+			"type": "table",
+			"colLabels": [
+				"d20",
+				"Trait"
+			],
+			"colStyles": [
+				"col-1 text-center",
+				"col-11"
+			],
+			"rows": [
+				[
+					"1",
+					"You always hold books as far away from you as possible."
+				],
+				[
+					"2",
+					"You're uncomfortable in open spaces."
+				],
+				[
+					"3",
+					"You compulsively hush other people."
+				],
+				[
+					"4",
+					"You're convinced your shadow is alive and plotting against you. You might be correct."
+				],
+				[
+					"5",
+					"You can't stand to see others handle books in your presence and take them away immediately."
+				],
+				[
+					"6",
+					"You curse quietly when you think others aren't listening."
+				],
+				[
+					"7",
+					"You constantly chant a single phrase under your breath in a language you don't understand."
+				],
+				[
+					"8",
+					"You avoid looking people in the eye."
+				],
+				[
+					"9",
+					"Whenever you hear a secret, you write it down."
+				],
+				[
+					"10",
+					"You keep a record of the events of each day and store it within a tome you allow no others to see."
+				],
+				[
+					"11",
+					"An eye has grown on the back of one of your hands. You can't see from it, but something can."
+				],
+				[
+					"12",
+					"Your skin becomes pale like parchment."
+				],
+				[
+					"13",
+					"Thick black veins run through your arms and legs. Occasionally, they twitch."
+				],
+				[
+					"14",
+					"Blood placed on your skin appears to form runic sigils. You're not certain what they mean."
+				],
+				[
+					"15",
+					"Your tears are black like ink and stain heavily."
+				],
+				[
+					"16",
+					"Your tongue becomes black and eerily long."
+				],
+				[
+					"17",
+					"Your irises become red with black veins running through them. Sometimes others can see the veins form words."
+				],
+				[
+					"18",
+					"Your posture degrades and your back stoops heavily."
+				],
+				[
+					"19",
+					"Your hands are always stained with ink."
+				],
+				[
+					"20",
+					"Scars you can't explain appear and vanish at random."
+				]
+			]
+		},
+		{
+			"name": "Books of Forbidden lore",
+			"source": "COFSA",
+			"intro": [
+				"There are countless tomes and scrolls within the Archive. If you need a quick one, generate it using the following table. Roll on the first, second, and third columns to create a piece of foul and unholy literature."
+			],
+			"type": "table",
+			"colLabels": [
+					"d8",
+					"First",
+					"Second",
+					"Third"
+				],
+				"colStyles": [
+					"col-1 text-center",
+					"col-4 text-center",
+					"col-4 text-center",
+					"col-3 text-center"
+				],
+				"rows": [
+					[
+						"1",
+						"The Scroll",
+						"of Esoteric",
+						"Hatreds"
+					],
+					[
+						"2",
+						"The Book",
+						"of Unknown",
+						"Terror"
+					],
+					[
+						"3",
+						"The Tome",
+						"of Spiteful",
+						"Demons"
+					],
+					[
+						"4",
+						"The Notebook",
+						"of Demonic",
+						"Incursions"
+					],
+					[
+						"5",
+						"The Scrawling",
+						"of Lost",
+						"Mysteries"
+					],
+					[
+						"6",
+						"The Compendium",
+						"of Forgotten",
+						"Secrets"
+					],
+					[
+						"7",
+						"The Sketches",
+						"of Dark",
+						"Defilement"
+					],
+					[
+						"8",
+						"The Tablet",
+						"of Cruel",
+						"Blasphemy"
+					]
+				]
+		},
+		{
+			"name": "Traits of the Ashen",
+			"source": "COFSA",
+			"intro": [
+				"Warlocks who have made a pact with the Ashen Wolf are often known simply as ashen. Consider adding one or more of these traits when creating a warlock or after performing an action that would please the Wolf."
+			],
+			"type": "table",
+			"colLabels": [
+				"d20",
+				"Trait"
+			],
+			"colStyles": [
+				"col-1 text-center",
+				"col-11"
+			],
+			"rows": [
+				[
+					"1",
+					"You tend to pace in circles before sitting."
+				],
+				[
+					"2",
+					"You eat your meat raw or badly burned."
+				],
+				[
+					"3",
+					"You habitually start fires using damp or wet wood."
+				],
+				[
+					"4",
+					"You have a strange hostility to cats."
+				],
+				[
+					"5",
+					"Your voice is scratchy, yet oddly deep."
+				],
+				[
+					"6",
+					"You prefer to sleep on the ground rather than a bed."
+				],
+				[
+					"7",
+					"You talk to fire, and sometimes, it answers."
+				],
+				[
+					"8",
+					"You compulsively scratch your fingers on wood."
+				],
+				[
+					"9",
+					"You never knock before entering."
+				],
+				[
+					"10",
+					"You always sit closest to the fire."
+				],
+				[
+					"11",
+					"A thin layer of ash constantly flakes off your skin."
+				],
+				[
+					"12",
+					"Your eyes glow like hot coals."
+				],
+				[
+					"13",
+					"Your fingernails become dark and claw-like."
+				],
+				[
+					"14",
+					"Your teeth become eerily large and sharp."
+				],
+				[
+					"15",
+					"Your legs become jointed like those of a wolf."
+				],
+				[
+					"16",
+					"Your breath often comes out as a cloud of smoke."
+				],
+				[
+					"17",
+					"Your hair becomes thick and coarse."
+				],
+				[
+					"18",
+					"Food you eat always tastes like ash."
+				],
+				[
+					"19",
+					"Sparks appear when your skin is rubbed."
+				],
+				[
+					"20",
+					"Smoke slowly swirls around your head and limbs."
+				]
+			]
+		},
+		{
+			"name": "Traits of the Thornhearted",
+			"source": "COFSA",
+			"intro": [
+				"Warlocks who draw power from the Blackthorn Grove are called thornhearted and are often secretive about their origins, instead preferring to converse about more pressing matters. Their secrecy is often born of necessity, as most have enemies that would love to see them dead. Consider adding one or more of these traits when creating a warlock or after drawing heavily from the power of the Grove."
+			],
+			"type": "table",
+				"colLabels": [
+					"d20",
+					"Trait"
+				],
+				"colStyles": [
+					"col-1 text-center",
+					"col-11"
+				],
+				"rows": [
+					[
+						"1",
+						"You smile and laugh without reservation."
+					],
+					[
+						"2",
+						"You sleep on bare earth when outdoors."
+					],
+					[
+						"3",
+						"You weep openly whenever you feel despair."
+					],
+					[
+						"4",
+						"You eat raw meat whenever you get the chance."
+					],
+					[
+						"5",
+						"You move constantly, even when still."
+					],
+					[
+						"6",
+						"You refuse to surrender without a fight."
+					],
+					[
+						"7",
+						"You dislike cities and urban areas."
+					],
+					[
+						"8",
+						"People often wonder about the nature of your powers."
+					],
+					[
+						"9",
+						"You make inspiring speeches with surprising frequency."
+					],
+					[
+						"10",
+						"You break into song on beautiful days."
+					],
+					[
+						"11",
+						"Your flesh seems to ripple under your skin."
+					],
+					[
+						"12",
+						"Your irises become blood red with green streaks."
+					],
+					[
+						"13",
+						"You seem to fit in perfectly to natural environments."
+					],
+					[
+						"14",
+						"Your facial features become accentuated by small plantlike growths that cover your cheekbones or brow."
+					],
+					[
+						"15",
+						"Your limbs become long and branch-like."
+					],
+					[
+						"16",
+						"Your teeth look like wicked thorns."
+					],
+					[
+						"17",
+						"Your hair becomes long strands of grass and leaves."
+					],
+					[
+						"18",
+						"Wooden horns emerge from your forehead."
+					],
+					[
+						"19",
+						"Your fingernails become sharp and barbed."
+					],
+					[
+						"20",
+						"Whenever you cast a spell, your Blackthorn heart pulses with crimson energy."
+					]
+				]
+		},
+	]
+}

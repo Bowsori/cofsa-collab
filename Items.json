@@ -1,0 +1,66 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "COFSA",
+				"abbreviation": "CoFS:A",
+				"full": "The Compendium of Forgotten Secrets: Awakening",
+				"authors": [
+					"Genuine Fantasy Press",
+					"William Hudson King"
+				],
+				"convertedBy": [
+					"Joe",
+					"Modnar",
+					"EldritchTiefling"
+				],
+				"version": "1.6",
+				"url": "https://www.genfantasypress.com",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"optionalFeatureTypes": {
+			"maneuvers": "Maneuvers"
+		},
+		"dateAdded": 1537874753
+	},
+	"item": [
+		{
+			"name": "The Bloodstained Quill",
+			"source": "COFSA",
+			"page": 15,
+			"wondrous": true,
+			"rarity": "Legendary",
+			"attachedSpells": [
+				"Geas"
+			],
+			"entries": [
+				"Whenever this quill is dipped in the blood of a living creature, it can be used to write one or more words upon that creature's skin as an action. Those words become true and the target acts as though affected by the {@spell geas} spell. The target can be written upon multiple times, creating a series of soul-binding instructions that each act as a unique instance of the {@i geas} spell. If the creature is targeted with a {@i remove curse} spell, only one of the writings is removed each time. "
+			]
+		},
+		{
+			"name": "Ink Razor",
+			"source": "COFSA",
+			"page": 15,
+			"baseItem": "Dagger|PHB",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "Simple",
+			"rarity": "Very Rare",
+			"reqAttune": true,
+			"weight": 1,
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"property": [
+				"F",
+				"L",
+				"T"
+			],
+			"range": "20/60",
+			"entries": [
+				"This magical dagger appears to be an inkwell, but when opened, it transforms into a blade of hardened black liquid. Whenever you hit a creature with this weapon, it suffers disadvantage on saving throws against spells until the start of your next turn."
+			]
+		}
+	]
+}

@@ -1,0 +1,943 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "COFSA",
+				"abbreviation": "CoFS:A",
+				"full": "The Compendium of Forgotten Secrets: Awakening",
+				"authors": [
+					"Genuine Fantasy Press",
+					"William Hudson King"
+				],
+				"convertedBy": [
+					"Joe",
+					"Modnar",
+					"EldritchTiefling"
+				],
+				"version": "1.6",
+				"url": "https://www.genfantasypress.com",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"optionalFeatureTypes": {
+			"maneuvers": "Maneuvers"
+		},
+		"dateAdded": 1537874753
+	},
+    "race": [
+		{
+			"name": "Maledicti",
+			"source": "COFSA",
+			"page": 108,
+			"ability": [
+				{
+					"str": 2,
+					"int": 1
+				},
+				{
+					"str": 1,
+					"int": 2,
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Unarmed Strike"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As a maledicti, your cursed blood fills you with power.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Strength or Intelligence. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of a maledicti is doubled. All are instantly raised to adulthood, though they can become aged afterward."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most maledicti tend to be evil, chaotic, or both, though some can withstand their dark urges."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Maledicti are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Black Blood",
+					"entries": [
+						"Your blood is cursed and it marks everything it touches. You gain resistance to necrotic damage. If you would also gain this resistance from a class feature, you learn the shadowthorn* cantrip. Intelligence is your spellcasting ability for this cantrip."
+					]
+				},
+				{
+					"name": "Madness",
+					"entries": [
+						"Your insanity makes it difficult for others to discern your true intentions. Creatures that make Insight checks against you do so with disadvantage."
+					]
+				},
+				{
+					"name": "Quill Claws",
+					"entries": [
+						"Your fingers are deadly implements that drip with black ink-blood. Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal necrotic damage equal to 1d6 + your Strength modifier instead of the bludgeoning damage normal for an unarmed strike."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Ashenspawn",
+			"source": "COFSA",
+			"page": 110,
+			"ability": [
+				{
+					"str": 2,
+					"cha": 1
+				},
+				{
+					"str": 1,
+					"cha": 2,
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Darkvision"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As an ashenspawn, your blood is tainted by the burning eldritch power of the Ashen Wolf, marking you forever.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Strength or Charisma. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"Ashenspawn can live as long as others of their origin race, though most die to violence long before then."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Ashenspawn are influenced strongly by the nature of the Ashen Wolf, and cruelty comes easily to most. While most are not truly evil or chaotic, very few tend to be genuinely good or lawful. Most value fulfilling their own passionate desires and fervent hunger, even at the cost of others, so most are neutral, chaotic, evil, or some combination of the three."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Ashenspawn are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"Due to your lupine eyes that glow in the dark, you have superior vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. If you gain Darkvision from your racial origin, add both values together."
+					]
+				},
+				{
+					"name": "Gift of Ash",
+					"entries": [
+						"Ashenspawn are blessed with an exceptional resistance to flame, as it fills their form with power and might. You gain resistance to fire damage. If you would also gain this resistance from a class feature, your inner power awakens, granting you the ability to cast the scorch* cantrip. Charisma is your spellcasting ability for this cantrip."
+					]
+				},
+				{
+					"name": "Flaming Feast",
+					"entries": [
+						"Thanks to your relation to the Wolf, you can easily consume wood, metal, and raw meat without harm, and they provide you with sustenance. You can eat nonmagical wood and metal at the same rate you could consume normal food as your jaws and teeth are strong enough to allow you to bite through iron if you can get your mouth around it. Stronger metals are tough and may take several minutes to bite through, depending on their thickness. Magical metals are too durable for ashenspawn to consume using this feature. Eating metal produces a terrible screeching sound that can be easily heard up to 150 feet away."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Groveborn",
+			"source": "COFSA",
+			"page": 112,
+			"ability": [
+				{
+					"str": 2,
+					"wis": 1
+				},
+				{
+					"str": 1,
+					"wis": 2,
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Skill Proficiency"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As a groveborn, your connection to the natural world is only marred by the eldritch power in your verdant body."
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Strength or Wisdom. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of a groveborn is twice that of their origin race, thanks to the blessing of the Grove."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most groveborn are neutral, driven by singular passions but still bound by their own morality. Those who fully embrace their nature have little respect for law and may trend towards a chaotic alignment."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Groveborn are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Durable Mind",
+					"entries": [
+						"You gain resistance to psychic damage."
+					]
+				},
+				{
+					"name": "Guise of the Grove",
+					"entries": [
+						"You can take the Hide action to conceal yourself even when you are only lightly obscured so long as you are concealed by plants, such as trees, bushes, or tall grass."
+					]
+				},
+				{
+					"name": "Natural Soul",
+					"entries": [
+						"You gain proficiency in the Nature skill."
+					]
+				},
+				{
+					"name": "Sundrinker",
+					"entries": [
+						"If you are exposed to sunlight for at least 1 hour, you do not need food or water for the day. You can drink the blood of other creatures in place of eating or drinking without ill effect, and the blood of a single Small creature will sustain you for one day. A Medium creature could sustain you for three days, while a Large creature’s entire supply of blood could sustain you for one week or more."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Statuesque",
+			"source": "COFSA",
+			"page": 113,
+			"ability": [
+				{
+					"con": 2,
+					"wis": 1,
+					"cha": 1
+				},
+				{
+					"con": 1,
+					"wis": 2,
+					"cha": 1
+				},
+				{
+					"con": 1,
+					"wis": 1,
+					"cha": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Skill Proficiency"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As a statuesque, you are both durable and wise with flesh of stone, hair of metal, and eyes of radiant gold. Despite this, your constitution is quite similar to that of a living mortal."
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Constitution, Wisdom, or Charisma. That ability score increases by two, while the other scores increase by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"Statuesque live for thousands of years and are renewed in the light of the Citadel. None have ever died from old age."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most statuesque tend to be lawful or neutral good. Their heroic nature is often what attracts the Citadel to them, but not all statuesque are great heroes. Some are cruel and evil, seeking preservation without regard to consequences."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Statuesque are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Radiant Blessing",
+					"entries": [
+						"You gain resistance to radiant damage. If you would also gain this resistance from a class feature, your inner power awakens, granting you the ability to cast the mending cantrip. Charisma is your spellcasting ability for this cantrip."
+					]
+				},
+				{
+					"name": "Timeless Mind",
+					"entries": [
+						"You have proficiency in the History skill."
+					]
+				},
+				{
+					"name": "Unyielding Body",
+					"entries": [
+						"Your form is incredibly durable, thanks to your immortal composition. Whenever you take damage, you can choose to reduce the damage taken by 1. This reduction is applied after resistances or vulnerabilities."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Luminari",
+			"source": "COFSA",
+			"page": 115,
+			"ability": [
+				{
+					"int": 2,
+					"wis": 1,
+					"cha": 1
+				},
+				{
+					"int": 1,
+					"wis": 2,
+					"cha": 1
+				},
+				{
+					"int": 1,
+					"wis": 1,
+					"cha": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As a luminari, your starmark grants you magical abilities tied to your racial origin."
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Intelligence, Wisdom, or Charisma. That ability score increases by two, while the other scores increase by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of a luminari is unchanged."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most luminari tend to be different from others of their kind, making them outcasts and rebels. Some are chaotic and cruel, but others are lawful or benevolent."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Luminari are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Starborn",
+					"entries": [
+						"You gain resistance to radiant damage."
+					]
+				},
+				{
+					"name": "Mystical Power",
+					"entries": [
+						"Choose a cantrip from the cleric, wizard, or bard spell list. You learn this cantrip, and you can cast it using either Intelligence, Wisdom, or Charisma (your choice)."
+					]
+				},
+				{
+					"name": "Constellation",
+					"entries": [
+						"You have been marked by a particular constellation and gain a benefit based on your racial origin that applies whenever you cast a cantrip as an action.",
+						"Dragonborn: Slayer. Your next successful weapon attack deals an extra 1d4 damage of the same type as your breath weapon, provided you do not make it during this turn.",
+						"Dwarf: Wanderer. If you take the Attack action during your next turn and target a creature, your speed increases by 10 feet until the end of that turn.",
+						"Elf: Devourer. If you make an opportunity attack before the start of your next turn, you can pursue the target as it moves away from you. Match its movement, up to 30 feet in total, whenever the target moves during its turn.",
+						"Gnome: Skulker. If you take the Hide action before the end of your next turn, you gain advantage on the check.",
+						"Halfling: Champion. If the cantrip deals damage and has a duration of “Instantaneous”, you gain resistance to one damage type dealt by the cantrip until the start of your next turn.",
+						"Half-Orc: Scholar. If the cantrip can’t deal damage, you gain advantage on the first melee attack during your next turn.",
+						"Human: Heartless. The first time you make an attack before the end of your next turn targeting a creature that is charmed or frightened by you, you gain advantage on the attack.",
+						"Tiefling: Overseer. You can take the Search action as a bonus action this turn. If you do, you know the location of any creature within 30 feet of you who attacks or casts a spell before the start of your next turn."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Oozian",
+			"source": "COFSA",
+			"page": 116,
+			"ability": [
+				{
+					"con": 2,
+					"dex": 1,
+				},
+				{
+					"con": 1,
+					"dex": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As an oozian, your body is both durable and flexible, as befits a slime blessed by the Convocation.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Constitution or Dexterity. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of an oozian is unchanged."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most oozians tend to be good or chaotic, as they are a kind but passionate people."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Oozians are fluent in Common and in the language of their racial origin. Additionally, you can communicate with sentient oozes regardless of the language they speak."
+					]
+				},
+				{
+					"name": "Acidic Body",
+					"entries": [
+						"You gain resistance to acid damage. If you would also gain this resistance from a class feature, your inner power awakens, granting you the ability to cast the acid splash cantrip. Charisma is your spellcasting ability for this cantrip. You are immune to acid damage caused by friendly oozes."
+					]
+				},
+				{
+					"name": "Jiggly Self",
+					"entries": [
+						"You have resistance to falling damage, and you are not knocked prone when you take falling damage."
+					]
+				},
+				{
+					"name": "Limitless Cheer",
+					"entries": [
+						"You can add your Charisma modifier to saving throws against being frightened."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Imperial",
+			"source": "COFSA",
+			"page": 118,
+			"ability": [
+				{
+					"wis": 2,
+					"dex": 1,
+				},
+				{
+					"wis": 1,
+					"dex": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Darkvision"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As an imperial, the corruption of them Empress empowers you even as it twists your will to her demands.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Dexterity or Wisdom. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of an imperial is unchanged."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most imperials tend to be lawful or evil, bound by hierarchy but jealous of those above them."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Imperials are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"With serpentine eyes, you have superior vision in dark and dim conditions. You can see in dim light within 119 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray. If you gain Darkvision from your racial origin, add both values together."
+					]
+				},
+				{
+					"name": "Forked Tongue",
+					"entries": [
+						"You can add your Wisdom modifier to Deception checks in place of your Charisma modifier."
+					]
+				},
+				{
+					"name": "Form Suppression",
+					"entries": [
+						"You can conceal your serpentine traits as an action by focusing your will, as though you were maintaining concentration on a spell."
+					]
+				},
+				{
+					"name": "Viper Fangs",
+					"entries": [
+						"You can choose to have your unarmed strikes deal poison damage instead of bludgeoning damage."
+					]
+				},
+				{
+					"name": "Venomous Blessing",
+					"entries": [
+						"You gain resistance to poison damage. If you would also gain this resistance from a class feature, your inner power awakens, granting you the ability to cast the poison spray cantrip. Wisdom is your spellcasting ability for this cantrip."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Nocturne",
+			"source": "COFSA",
+			"page": 119,
+			"ability": [
+				{
+					"wis": 2,
+					"dex": 1,
+				},
+				{
+					"wis": 1,
+					"dex": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Darkvision"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As a nocturne, your newfound insight and agility is restrained only by your unceasing insomnia.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Dexterity or Wisdom. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of a nocturne is unchanged."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Most nocturne tend to be neutral or chaotic, driven by their desires but also restrained by their fears."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Nocturne are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"Blessed by the Shadowcat, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can discern color in darkness, thanks to your eerie eyes. If you gain Darkvision from your racial origin, add both values together."
+					]
+				},
+				{
+					"name": "Night Terrors",
+					"entries": [
+						"You gain resistance to psychic damage and proficiency in the Perception skill."
+					]
+				},
+				{
+					"name": "Restless",
+					"entries": [
+						"You do not suffer exhaustion when you go without sleep for extended periods of time, but you must still rest as normal."
+					]
+				},
+				{
+					"name": "Nine Lives",
+					"entries": [
+						"You’re hard to kill, but only when your fate is unknown. Whenever you are hidden from all other creatures, you gain advantage on death saving throws and on saving throws to reduce damage."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Heraldic",
+			"source": "COFSA",
+			"page": 121,
+			"ability": [
+				{
+					"wis": 2,
+					"cha": 1,
+				},
+				{
+					"wis": 1,
+					"cha": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As a heraldic, you are defined by your reborn soul and the radiant lightning that courses through your veins.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Wisdom or Charisma. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"The lifespan of a heraldic is unchanged."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Heraldic individuals are often unbound by conventional morality, having seen death, but many are heroic and benevolent all the same."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Heraldic are fluent in Common and in the language of their racial origin."
+					]
+				},
+				{
+					"name": "Scarred by the Storm",
+					"entries": [
+						"You gain resistance to lightning damage. If you would also gain this resistance from a class feature, you gain the ability to cast shocking grasp. Charisma is your spellcasting ability for this spell."
+					]
+				},
+				{
+					"name": "Soul Ignition",
+					"entries": [
+						"As a bonus action, you can ignite your soul, forcing it to appear as wings of mist and lightning until the start of your next turn and causing you to immediately take 6 radiant damage. During this time, you gain a flying speed equal to your walking speed. If you do not repeat this process to maintain your flight at the start of your next turn, you will fall."
+					]
+				}
+			],
+			"fluff": {}
+		},
+		{
+			"name": "Heraldic",
+			"source": "COFSA",
+			"page": 122,
+			"ability": [
+				{
+					"dex": 2,
+					"cha": 1,
+				},
+				{
+					"dex": 1,
+					"cha": 2
+				}
+			],
+			"size": "V",
+			"speed": {
+				"walk": "varies"
+			},
+			"traitTags": [
+				"Uncommon Race",
+				"Damage Resistance",
+				"Darkvision"
+			],
+			"languageProficiencies": [
+				{
+					"common": true,
+				}
+			],
+			"entries": [
+				"As an arachi, your twisted nature manifests itself in a variety of ways common to your race.",
+				{
+					"name": "Ability Score Increase",
+					"entries": [
+						"Choose either Dexterity or Charisma. That ability score increases by two, while the other score increases by one."
+					]
+				},
+				{
+					"name": "Age",
+					"entries": [
+						"Arachi typically live somewhat longer than their original race, concealing their aging as the signs begin to show."
+					]
+				},
+				{
+					"name": "Alignment",
+					"entries": [
+						"Arachi are greatly influenced by their deceptive nature, but this can play out in many ways. Some are lawful and work within the confines of a system to their advantage, while others are chaotic and sow disharmony wherever they go. Few are good, as honesty does not come easily to them, but most trend towards neutrality despite their wicked streak."
+					]
+				},
+				{
+					"name": "Size",
+					"entries": [
+						"Your size is determined by your origin race."
+					]
+				},
+				{
+					"name": "Speed",
+					"entries": [
+						"Your speed is determined by your origin race."
+					]
+				},
+				{
+					"name": "Languages",
+					"entries": [
+						"Arachi are fluent in Common and in the language of their racial origin. Those who are born into communities of arachi learn thieves cant and use it frequently."
+					]
+				},
+				{
+					"name": "Blood of the Spider",
+					"entries": [
+						"Arachi possess a remarkable resistance to poison, and it flows through their fangs with equal ease. You gain resistance to poison damage. If you would also gain this resistance from a class feature, you gain the ability to cast falling spider’s spite* at 1st level once per long rest without expending a spell slot."
+					]
+				},
+				{
+					"name": "Darkvision",
+					"entries": [
+						"You have superior vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. If you gain Darkvision from your racial origin, add both values together."
+					]
+				},
+				{
+					"name": "False Form",
+					"entries": [
+						"As an arachi, you possess two forms: a true form and a false form. Your false form appears as a member of your origin race and can look however you wish. Once you choose this appearance, it can never be changed. You can change between your false form and true form as an action. Nothing aside from your physical appearance changes. However, while in your false form, you gain advantage on Deception checks related to concealing your true nature as an arachi or to actions you performed while you were in your true form."
+					]
+				},
+				{
+					"name": "Remarkably Forgetful",
+					"entries": [
+						"You learn the forget* cantrip, and you can cast it on yourself multiple times instead of only once, forgetting a total number of different things up to your character level."
+					]
+				}
+			],
+			"fluff": {}
+		}
+	]
+}

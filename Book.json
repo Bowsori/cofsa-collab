@@ -1,0 +1,30 @@
+{
+	"$schema": "../schema.json",
+	"_meta": {
+		"sources": [
+			{
+				"json": "COFSA",
+				"abbreviation": "CoFS:A",
+				"full": "The Compendium of Forgotten Secrets: Awakening",
+				"authors": [
+					"Genuine Fantasy Press",
+					"William Hudson King"
+				],
+				"convertedBy": [
+					"Joe",
+					"Modnar",
+					"EldritchTiefling"
+				],
+				"version": "1.6",
+				"url": "https://www.genfantasypress.com",
+				"targetSchema": "1.1.0"
+			}
+		],
+		"optionalFeatureTypes": {
+			"maneuvers": "Maneuvers"
+		},
+		"dateAdded": 1537874753
+	},
+	"book": [
+		 {}
+	]
