@@ -1,0 +1,12 @@
+# Work To Do
+- Convert Classes and Subclasses to new schema (working on it [x/37] - @EldritchTranslator)
+- Convert Optional Features (done - @CiodenDarkeye)
+- Convert Tables
+- Convert Spells
+- Convert Creatures [15/15 - needs to recheck]
+- Convert Races [9/10 - all need fluff to be added]
+- Convert Items
+- Convert book material
+- Add pictures
+- Add book cover and color to _meta
+- Check that everything works!
