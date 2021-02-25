@@ -39,7 +39,7 @@
 			],
 			"source": "COFSA",
 			"page": 98,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Aegis Strike",
@@ -53,7 +53,7 @@
 			],
 			"source": "COFSA",
 			"page": 38,
-			"featureType": "maneuvers"
+			"featureType": ["maneuvers"]
 		},
 		{
 			"name": "All Else Equal",
@@ -73,7 +73,7 @@
 			],
 			"source": "COFSA",
 			"page": 91,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Allegro Vivace",
@@ -93,7 +93,7 @@
 			],
 			"source": "COFSA",
 			"page": 72,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Alliance Upheld",
@@ -113,7 +113,7 @@
 			],
 			"source": "COFSA",
 			"page": 36,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Arc Lightning",
@@ -133,7 +133,7 @@
 			],
 			"source": "COFSA",
 			"page": 87,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Assassin in the Dark",
@@ -148,7 +148,7 @@
 			],
 			"source": "COFSA",
 			"page": 98,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Astrological Chart",
@@ -165,7 +165,7 @@
 			],
 			"source": "COFSA",
 			"page": 42,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Awakened Blade",
@@ -180,7 +180,7 @@
 			],
 			"source": "COFSA",
 			"page": 23,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Awakened Insight",
@@ -189,7 +189,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Awestruck Awakening",
@@ -203,7 +203,7 @@
 			],
 			"source": "COFSA",
 			"page": 65,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Barred Mind",
@@ -212,7 +212,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Between the Worlds",
@@ -232,7 +232,7 @@
 			],
 			"source": "COFSA",
 			"page": 91,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Binding Blast",
@@ -252,7 +252,7 @@
 			],
 			"source": "COFSA",
 			"page": 98,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Blade Empowerment",
@@ -266,7 +266,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Blasphemous Whisper",
@@ -286,7 +286,7 @@
 			],
 			"source": "COFSA",
 			"page": 98,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Book of Stolen Secrets",
@@ -302,7 +302,7 @@
 			],
 			"source": "COFSA",
 			"page": 65,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Book of the Blackthorn",
@@ -317,7 +317,7 @@
 			],
 			"source": "COFSA",
 			"page": 23,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Broken Dreams",
@@ -336,7 +336,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Broken God's Blade",
@@ -351,7 +351,7 @@
 			],
 			"source": "COFSA",
 			"page": 91,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Broker's Blade",
@@ -366,7 +366,7 @@
 			],
 			"source": "COFSA",
 			"page": 30,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Bitterchill Blast",
@@ -380,13 +380,13 @@
 			],
 			"source": "COFSA",
 			"page": 104,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Butcher's Quill",
 			"source": "COFSA",
 			"page": 11,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Accursed Archive",
@@ -404,7 +404,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Catalogue of Experiences",
@@ -419,7 +419,7 @@
 			],
 			"source": "COFSA",
 			"page": 54,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Caustic Blast",
@@ -439,7 +439,7 @@
 			],
 			"source": "COFSA",
 			"page": 54,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Cheerful Duet",
@@ -454,13 +454,13 @@
 			],
 			"source": "COFSA",
 			"page": 72,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Chronicle of the Flame",
 			"source": "COFSA",
 			"page": 17,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf",
@@ -486,7 +486,7 @@
 			],
 			"source": "COFSA",
 			"page": 105,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Clash of Wills",
@@ -500,7 +500,7 @@
 			],
 			"source": "COFSA",
 			"page": 65,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Codex of the Black Dawn",
@@ -515,7 +515,7 @@
 			],
 			"source": "COFSA",
 			"page": 83,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Cold Blooded",
@@ -535,14 +535,14 @@
 			],
 			"source": "COFSA",
 			"page": 78,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Commanding Presence",
 			"prerequisite": [
 				{
 					"level": {
-						"level": 12, 
+						"level": 12,
 						"class": {
 							"name": "Warlock"
 						}
@@ -555,7 +555,7 @@
 			],
 			"source": "COFSA",
 			"page": 78,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Compendium of Forgotten Secrets",
@@ -569,7 +569,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Compositions of the Masters",
@@ -584,7 +584,7 @@
 			],
 			"source": "COFSA",
 			"page": 72,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Contract Killer",
@@ -599,7 +599,7 @@
 			],
 			"source": "COFSA",
 			"page": 30,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Convocation's Child",
@@ -614,7 +614,7 @@
 			],
 			"source": "COFSA",
 			"page": 54,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Creature of Carrion",
@@ -629,13 +629,13 @@
 			],
 			"source": "COFSA",
 			"page": 47,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Curse of Carasphyx",
 			"source": "COFSA",
 			"page": 11,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Accursed Archive",
@@ -664,7 +664,7 @@
 			],
 			"source": "COFSA",
 			"page": 60,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Dance of the Storm",
@@ -684,7 +684,7 @@
 			],
 			"source": "COFSA",
 			"page": 87,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Dark Speech",
@@ -693,7 +693,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Darkest Secrets",
@@ -713,7 +713,7 @@
 			],
 			"source": "COFSA",
 			"page": 65,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Deepest Sympathies",
@@ -728,7 +728,7 @@
 			],
 			"source": "COFSA",
 			"page": 66,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Duskborne Companion",
@@ -743,7 +743,7 @@
 			],
 			"source": "COFSA",
 			"page": 83,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Eldritch Annhilation",
@@ -763,7 +763,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Eldritch Shaping",
@@ -792,7 +792,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Eldritch Shaping, Greater",
@@ -810,7 +810,7 @@
 				}
 			],
 			"entries": [
-				"As {@invocation eldritch shaping}, except you choose from the following options instead.",
+				"As {@optfeature eldritch shaping|COFSA}, except you choose from the following options instead.",
 				{
 					"type": "list",
 					"items": [
@@ -821,7 +821,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Eldritch Shaping, Master",
@@ -839,18 +839,18 @@
 				}
 			],
 			"entries": [
-				"As {@invocation eldritch shaping}, except you choose from the following options instead.",
+				"As {@optfeature eldritch shaping|COFSA}, except you choose from the following options instead.",
 				{
 					"type": "list",
 					"items": [
 				"{@b Doom:} You channel concentrated eldritch energy into one location. Target one creature you can see within range. The target must succeed on a Charisma saving throw or be struck by all beams of your {@spell eldritch blast}. If this attack kills the creature, you can use your bonus action to prepare another Eldritch Shape.",
-				"{@b Distruction:} You unleash an web of chaotic eldritch energy. Target one creature you can see within range, and then target up to 4 other enemy creatures you can see within 30 feet of the primary target. Each secondary target must succeed on a Wisdom saving throw or be struck by one beam of your {@spell eldritch blast}. The primary target is struck by a number of beams of your {@spell eldritch blast} equal to the number of creatures who failed their saving throw."
+				"{@b Destruction:} You unleash an web of chaotic eldritch energy. Target one creature you can see within range, and then target up to 4 other enemy creatures you can see within 30 feet of the primary target. Each secondary target must succeed on a Wisdom saving throw or be struck by one beam of your {@spell eldritch blast}. The primary target is struck by a number of beams of your {@spell eldritch blast} equal to the number of creatures who failed their saving throw."
 				    ]
 				}
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Emergency Fund",
@@ -870,13 +870,13 @@
 			],
 			"source": "COFSA",
 			"page": 31,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Essence of Ash",
 			"source": "COFSA",
 			"page": 17,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf",
@@ -901,7 +901,7 @@
 			],
 			"source": "COFSA",
 			"page": 87,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Everburning Gaze",
@@ -921,7 +921,7 @@
 			],
 			"source": "COFSA",
 			"page": 83,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Evil Eye",
@@ -930,7 +930,7 @@
 			],
 			"source": "COFSA",
 			"page": 129,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Eyes of the Lost",
@@ -944,7 +944,7 @@
 			],
 			"source": "COFSA",
 			"page": 47,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Fang of the Prowler",
@@ -959,7 +959,7 @@
 			],
 			"source": "COFSA",
 			"page": 83,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Flaywind Blade",
@@ -974,7 +974,7 @@
 			],
 			"source": "COFSA",
 			"page": 87,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Frame of Reference",
@@ -994,7 +994,7 @@
 			],
 			"source": "COFSA",
 			"page": 60,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Frostbound Armor",
@@ -1014,7 +1014,7 @@
 			],
 			"source": "COFSA",
 			"page": 105,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Fortification",
@@ -1028,7 +1028,7 @@
 			],
 			"source": "COFSA",
 			"page": 38,
-			"featureType": "maneuvers"
+			"featureType": ["maneuvers"]
 		},
 		{
 			"name": "Fractured Soul",
@@ -1042,7 +1042,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Grand Executioner's Blade",
@@ -1062,7 +1062,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Grand Occultist's Tome",
@@ -1082,7 +1082,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Grand Summoner's Chain",
@@ -1102,7 +1102,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Grim Guardian",
@@ -1122,7 +1122,7 @@
 			],
 			"source": "COFSA",
 			"page": 47,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Grim Harvester",
@@ -1136,7 +1136,7 @@
 			],
 			"source": "COFSA",
 			"page": 105,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Grimoire of the Endless Rain",
@@ -1151,7 +1151,7 @@
 			],
 			"source": "COFSA",
 			"page": 87,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Hammer of Dawn",
@@ -1166,7 +1166,7 @@
 			],
 			"source": "COFSA",
 			"page": 36,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Handmaiden's Guardian",
@@ -1181,13 +1181,13 @@
 			],
 			"source": "COFSA",
 			"page": 78,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Hellfire Infusion",
 			"source": "COFSA",
 			"page": 17,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf"
@@ -1201,7 +1201,7 @@
 			"name": "Hidden Pocket",
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"entries": [
 				"As an action, you can touch one unattended nonmagical object that weighs less than 30 pounds, such as a shield, gemstone, or glaive. The object disappears into a hidden pocket dimension. As an action on a subsequent turn, you can access this pocket dimension to retrieve the item. You can have only one item stored at a time, and an item that is under the effects of a magical spell or effect cannot be stored. If you die or are reduced to 0 hit points, the item exits the pocket dimension and falls to the ground in your space."
 			]
@@ -1210,7 +1210,7 @@
 			"name": "Hide of Cinders",
 			"source": "COFSA",
 			"page": 18,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf",
@@ -1225,7 +1225,7 @@
 			"name": "Hunger of the Wolf",
 			"source": "COFSA",
 			"page": 18,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf"
@@ -1253,7 +1253,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Invested Defense",
@@ -1268,7 +1268,7 @@
 			],
 			"source": "COFSA",
 			"page": 36,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Jiggly Defense",
@@ -1289,7 +1289,7 @@
 			],
 			"source": "COFSA",
 			"page": 54,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Lair of the Liar",
@@ -1310,7 +1310,7 @@
 			],
 			"source": "COFSA",
 			"page": 99,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Ledger of the Deceased",
@@ -1325,7 +1325,7 @@
 			],
 			"source": "COFSA",
 			"page": 47,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Limitless Weapon",
@@ -1339,7 +1339,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Living Art",
@@ -1354,7 +1354,7 @@
 			],
 			"source": "COFSA",
 			"page": 61,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Lord of Beasts",
@@ -1374,7 +1374,7 @@
 			],
 			"source": "COFSA",
 			"page": 105,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Magnum Opus",
@@ -1394,7 +1394,7 @@
 			],
 			"source": "COFSA",
 			"page": 61,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Majestic Scales",
@@ -1414,7 +1414,7 @@
 			],
 			"source": "COFSA",
 			"page": 78,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Net of the Truth-Harvester",
@@ -1429,7 +1429,7 @@
 			],
 			"source": "COFSA",
 			"page": 66,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Nightshade's Embrace",
@@ -1449,7 +1449,7 @@
 			],
 			"source": "COFSA",
 			"page": 23,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Open Eyes",
@@ -1469,7 +1469,7 @@
 			],
 			"source": "COFSA",
 			"page": 31,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Ophidian Fang",
@@ -1484,7 +1484,7 @@
 			],
 			"source": "COFSA",
 			"page": 78,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Papercut",
@@ -1499,7 +1499,7 @@
 			],
 			"source": "COFSA",
 			"page": 61,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Perfect Appraisal",
@@ -1513,7 +1513,7 @@
 			],
 			"source": "COFSA",
 			"page": 31,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Perfect Artisan",
@@ -1573,7 +1573,7 @@
 			],
 			"source": "COFSA",
 			"page": 58,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Preserved Document",
@@ -1588,7 +1588,7 @@
 			],
 			"source": "COFSA",
 			"page": 36,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Sacrificial Demise",
@@ -1608,13 +1608,13 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Scorched Blade",
 			"source": "COFSA",
 			"page": 18,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf",
@@ -1631,7 +1631,7 @@
 			"name": "Scribe's Adjunct",
 			"source": "COFSA",
 			"page": 11,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Accursed Archive",
@@ -1655,7 +1655,7 @@
 			],
 			"source": "COFSA",
 			"page": 91,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Scroll of Imperial Authority",
@@ -1670,7 +1670,7 @@
 			],
 			"source": "COFSA",
 			"page": 78,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Scythe of the Lifetaker",
@@ -1685,7 +1685,7 @@
 			],
 			"source": "COFSA",
 			"page": 47,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Secretive Speech",
@@ -1694,7 +1694,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Seeker of Prey",
@@ -1709,7 +1709,7 @@
 			],
 			"source": "COFSA",
 			"page": 105,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Servant to the Master",
@@ -1729,7 +1729,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Servant-Priests",
@@ -1744,7 +1744,7 @@
 			],
 			"source": "COFSA",
 			"page": 92,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Servants of the Citadel",
@@ -1758,7 +1758,7 @@
 			],
 			"source": "COFSA",
 			"page": 36,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Signature Work",
@@ -1780,7 +1780,7 @@
 			],
 			"source": "COFSA",
 			"page": 61,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Singing Slayer",
@@ -1795,7 +1795,7 @@
 			],
 			"source": "COFSA",
 			"page": 72,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Slaves of the Empress",
@@ -1815,7 +1815,7 @@
 			],
 			"source": "COFSA",
 			"page": 76,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Slayer's Armory",
@@ -1830,7 +1830,7 @@
 			],
 			"source": "COFSA",
 			"page": 105,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Sleepless Nights",
@@ -1850,7 +1850,7 @@
 			],
 			"source": "COFSA",
 			"page": 81,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Slick Hands",
@@ -1870,7 +1870,7 @@
 			],
 			"source": "COFSA",
 			"page": 55,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Slime Slayer",
@@ -1885,7 +1885,7 @@
 			],
 			"source": "COFSA",
 			"page": 55,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Soul-Burning Incantation",
@@ -1899,7 +1899,7 @@
 			],
 			"source": "COFSA",
 			"page": 47,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Speck of Sunlight",
@@ -1914,7 +1914,7 @@
 			],
 			"source": "COFSA",
 			"page": 43,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Steadfast Companion",
@@ -1929,7 +1929,7 @@
 			],
 			"source": "COFSA",
 			"page": 36,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Stolen Heart",
@@ -1944,13 +1944,13 @@
 			],
 			"source": "COFSA",
 			"page": 43,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Tenebrous Blast",
 			"source": "COFSA",
 			"page": 11,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Accursed Archive",
@@ -1983,13 +1983,13 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "The Archivist's Journal",
 			"source": "COFSA",
 			"page": 11,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Accursed Archive",
@@ -2046,7 +2046,7 @@
 			],
 			"source": "COFSA",
 			"page": 43,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "The Silver Tongue",
@@ -2061,13 +2061,13 @@
 			],
 			"source": "COFSA",
 			"page": 99,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Thou Art Immortal",
 			"source": "COFSA",
 			"page": 61,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Gray Portrait",
@@ -2087,7 +2087,7 @@
 			"name": "Through Fire and Flame",
 			"source": "COFSA",
 			"page": 18,
-			"featureType": "EI",
+			"featureType": ["EI"],
 			"prerequisite": [
 				{
 					"patron": "The Ashen Wolf",
@@ -2123,7 +2123,7 @@
 			],
 			"source": "COFSA",
 			"page": 92,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Twinned Blades",
@@ -2137,7 +2137,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Two of a Kind",
@@ -2153,7 +2153,7 @@
 			],
 			"source": "COFSA",
 			"page": 31,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "United Survival",
@@ -2169,7 +2169,7 @@
 			],
 			"source": "COFSA",
 			"page": 23,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Unusual Form",
@@ -2189,7 +2189,7 @@
 			],
 			"source": "COFSA",
 			"page": 55,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Veil of Sorrow",
@@ -2208,7 +2208,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Venomous Blast",
@@ -2228,7 +2228,7 @@
 			],
 			"source": "COFSA",
 			"page": 79,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Wicked Waltz",
@@ -2248,7 +2248,7 @@
 			],
 			"source": "COFSA",
 			"page": 73,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Will of the Saint",
@@ -2262,7 +2262,7 @@
 			],
 			"source": "COFSA",
 			"page": 92,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Windswept Defense",
@@ -2282,7 +2282,7 @@
 			],
 			"source": "COFSA",
 			"page": 88,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Wretched Fortune",
@@ -2302,7 +2302,7 @@
 			],
 			"source": "COFSA",
 			"page": 83,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		},
 		{
 			"name": "Wretched Mark",
@@ -2324,7 +2324,7 @@
 			],
 			"source": "COFSA",
 			"page": 130,
-			"featureType": "EI"
+			"featureType": ["EI"]
 		}
 	]
 }

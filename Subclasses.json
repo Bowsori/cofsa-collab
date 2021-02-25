@@ -264,7 +264,7 @@
 					"name": "Replenish",
 					"source": "COFSA"
 				},
-				"Plant Growth"
+				"Plant Growth",
 				"Skewering Vines",
 				{
 					"name": "Bloodthorn",
@@ -562,10 +562,10 @@
 				"Sanctuary",
 				"Arcane Lock",
 				"Warding Bond",
-				"Glyph of Warding"
+				"Glyph of Warding",
 				"Leomund's Tiny Hut",
 				"Otiluke's Resilient Sphere",
-				"Stoneskin"
+				"Stoneskin",
 				"Passwall",
 				"Wall of Stone"
 			],
@@ -639,7 +639,7 @@
 				"Timeless Monumental|Fighter||Timeless Monumental|COFSA|3",
 				"Witness to Ruin|Fighter||Timeless Monumental|COFSA|7",
 				"Radiance of the Spire|Fighter||Timeless Monumental|COFSA|10",
-				"Titan’s Virtue|Fighter||Timeless Monumental|COFSA|15",
+				"Titan's Virtue|Fighter||Timeless Monumental|COFSA|15",
 				"Price of Preservation|Fighter||Timeless Monumental|COFSA|18"
 			],
 			"className": "Fighter",
@@ -654,10 +654,10 @@
 				"Color Spray",
 				"Faerie Fire",
 				"Continual Flame",
-				"See Invisibility"
+				"See Invisibility",
 				"Blink",
 				"Daylight",
-				"Divination"
+				"Divination",
 				"Greater Invisibility",
 				"Dispel Evil and Good",
 				{
@@ -734,8 +734,11 @@
 			"subclassFeatures": [
 				"Way of the Black Star|Monk||Black Star|COFSA|3",
 				"Acolyte of the Lost Sun|Monk||Black Star|COFSA|6",
+				"Starlight Techniques|Monk||Black Star|COFSA|6",
 				"Open Soul|Monk||Black Star|COFSA|11",
-				"Otherworldly Knowledge|Monk||Black Star|COFSA|17"
+				"Sunless Techniques|Monk||Black Star|COFSA|11",
+				"Otherworldly Knowledge|Monk||Black Star|COFSA|17",
+				"Eclipse Techniques|Monk||Black Star|COFSA|17"
 			],
 			"className": "Monk",
 			"classSource": "PHB"
@@ -835,7 +838,7 @@
 			"subclassFeatures": [
 				"Graverobber|Rogue||Graverobber|COFSA|3",
 				"Whisper to the Fallen|Rogue||Graverobber|COFSA|9",
-				"Hangman’s Dance|Rogue||Graverobber|COFSA|13",
+				"Hangman's Dance|Rogue||Graverobber|COFSA|13",
 				"No Rest for the Wicked|Rogue||Graverobber|COFSA|17"
 			],
 			"className": "Rogue",
@@ -955,7 +958,7 @@
 				"Glyph of Warding",
 				"Sending",
 				"Stone Shape",
-				"Death Ward"
+				"Death Ward",
 				"Mislead",
 				"Seeming"
 			],
@@ -1160,7 +1163,7 @@
 					"name": "Shattersong",
 					"source": "COFSA"
 				},
-				"Animate Objects"
+				"Animate Objects",
 				"Awaken"
 			],
 			"subclassFeatures": [
@@ -1361,7 +1364,7 @@
 					"source": "COFSA"
 				},
 				"Nondetection",
-				"Greater Invisibility"
+				"Greater Invisibility",
 				{
 					"name": "Unseen Claw",
 					"source": "COFSA"
@@ -1740,7 +1743,7 @@
 					"source": "COFSA"
 				},
 				"Compulsive",
-				"Phantasmal Killer"
+				"Phantasmal Killer",
 				"Modify Memory",
 				"Insect Plague"
 			],
@@ -1924,21 +1927,6 @@
 			"classSource": "PHB"
 		},
 		{
-			"name": "Hound of the Huntsman",
-			"shortName": "Hound of the Huntsman",
-			"source": "COFSA",
-			"page": 106,
-			"subclassFeatures": [
-				"Hound of the Huntsman|Ranger (Revised)|UATheRangerRevised|Hound of the Huntsman|COFSA|3",
-				"Extra Attack|Ranger (Revised)|UATheRangerRevised|Hound of the Huntsman|COFSA|5",
-				"Rend Asunder|Ranger (Revised)|UATheRangerRevised|Hound of the Huntsman|COFSA|7",
-				"Hunter’s Call|Ranger (Revised)|UATheRangerRevised|Hound of the Huntsman|COFSA|11",
-				"Lord of the Beast Within|Ranger (Revised)|UATheRangerRevised|Hound of the Huntsman|COFSA|15"
-			],
-			"className": "Ranger (Revised)",
-			"classSource": "UATheRangerRevised"
-		},
-		{
 			"name": "Relic Domain",
 			"shortName": "Relic",
 			"source": "COFSA",
@@ -1947,7 +1935,7 @@
 				"Alarm",
 				"Sanctuary",
 				"Enhance Ability",
-				"Spiritual Weapon"
+				"Spiritual Weapon",
 				"Counterspell",
 				"Tongues",
 				"Banishment",
@@ -2214,7 +2202,7 @@
 			"subclassShortName": "Accursed Archive",
 			"subclassSource": "COFSA",
 			"level": 1,
-			"header": 1,
+			"header": 1
 		},
 		{
 			"name": "Written in Blood",
@@ -2277,7 +2265,7 @@
 				"There is a place beyond time, filled with malignant intelligence and ruinous intent. This is the Accursed Archive\u2013the singular repository of all knowledge known to mortal men, populated with the darkest of secrets and the foulest of heresies. You managed to find a tome of these blighted mysteries and stepped through the door to nowhere that led to the Archive at some point in your past, yet your mind cracked under the weight of the knowledge contained within and the horrible vistas of forgotten power that stood just within your feeble mortal grasp. Now you have finally realized that the true source of your furious rage is both defiance and acceptance of the madness that lies within the Accursed Archive.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "The Lurking Fear|Barbarian||Accursed|COFSA|1"
+					"subclassFeature": "The Lurking Fear|Barbarian||Accursed|COFSA|3"
 				}
 			]
 		},
@@ -2289,7 +2277,7 @@
 			"classSource": "PHB",
 			"subclassShortName": "Accursed",
 			"subclassSource": "COFSA",
-			"level": 6,
+			"level": 3,
 			"header": 2,
 			"entries": [
 				"At 3rd level, you have yet to come to terms with what you have witnessed within the Archive, and in your bouts of rage you ramble about these twisted things even as your tongue fights to stop. You gain resistance to all damage inflicted by frightened creatures while you are raging.",
@@ -2847,12 +2835,12 @@
 			"page": 24,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
+			"subclassShortName": "Blackthorn",
 			"subclassSource": "COFSA",
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"When you select this origin at 1st level, your spirit aligns to the power of the Grove, calling to the cycles of regrowth. You learn the druidcraft cantrip. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the druid spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you."
+				"When you select this origin at 1st level, your spirit aligns to the power of the Grove, calling to the cycles of regrowth. You learn the {@spell druidcraft} cantrip. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the druid spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you."
 			]
 		},
 		{
@@ -2861,12 +2849,12 @@
 			"page": 24,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
+			"subclassShortName": "Blackthorn",
 			"subclassSource": "COFSA",
 			"level": 1,
 			"header": 2,
 			"entries": [
-				"When you select this origin at 1st level, your spirit aligns to the power of the Grove, calling to the cycles of regrowth. You learn the druidcraft cantrip. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the druid spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you."
+				"Also at 1st level, whenever you cast a spell using a spell slot of 1st level or higher, you can choose a creature that you can see within 30 feet of you. Roll {@dice 1d10} for each level of the spell slot you expended. If the total is equal to or greater than the creature’s remaining hit point total, it falls asleep as though affected by the {@spell sleep} spell."
 			]
 		},
 		{
@@ -2875,7 +2863,7 @@
 			"page": 24,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
+			"subclassShortName": "Blackthorn",
 			"subclassSource": "COFSA",
 			"level": 6,
 			"header": 2,
@@ -2889,7 +2877,7 @@
 			"page": 24,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
+			"subclassShortName": "Blackthorn",
 			"subclassSource": "COFSA",
 			"level": 14,
 			"header": 2,
@@ -2903,7 +2891,7 @@
 			"page": 24,
 			"className": "Sorcerer",
 			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
+			"subclassShortName": "Blackthorn",
 			"subclassSource": "COFSA",
 			"level": 18,
 			"header": 2,
@@ -3049,7 +3037,7 @@
 			"classSource": "PHB",
 			"subclassShortName": "Avarice",
 			"subclassSource": "COFSA",
-			"level": 1,
+			"level": 3,
 			"entries": [
 				"The tenets of the Oath of Avarice are often sworn only to oneself, born of greed, desire, and greater goals.",
 				{
@@ -3106,7 +3094,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Channel Divinity|Warlock||Avarice|COFSA|3"
+					"subclassFeature": "Channel Divinity|Paladin||Avarice|COFSA|3"
 				}
 			]
 		},
@@ -3154,68 +3142,1088 @@
 			"classSource": "PHB",
 			"subclassShortName": "Avarice",
 			"subclassSource": "COFSA",
-			"level": 1,
-			"header": 1
+			"level": 3,
+			"header": 2
 		},
 		{
-			"name": "Blackthorn Heart",
-			"source": "COFSA",
-			"page": 23,
-			"className": "Warlock",
-			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
-			"subclassSource": "COFSA",
-			"level": 1,
-			"header": 2,
-			"entries": [
-				"At 1st level, you have torn out your heart and replaced it with something otherworldly, granting you the will to survive. You ignore nonmagical difficult terrain. Whenever you fail a death saving throw, your Blackthorn heart bursts from your chest and lashes out with life-stealing briars toward the nearest hostile creature. Make a melee spell attack against an enemy within 15 feet of you. On a hit, the creature takes magical piercing damage equal to your warlock level, and you regain hit points equal to the damage dealt.",
-				"After you recover hit points using this feature, you cannot make this attack again until you finish a short or long rest."
+			"name":"Channel Divinity",
+			"source":"COFSA",
+			"page":32,
+			"className":"Paladin",
+			"classSource":"PHB",
+			"subclassShortName":"Avarice",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"When you take this oath at 3rd level, you gain the following two Channel Divinity options.",
+				{
+					"type":"list",
+					"style":"list-hang-notitle",
+					"items":[
+						{
+							"type":"item",
+							"name":"Golden Suit",
+							"entry":"As an action, you can use your Channel Divinity to coat yourself in shining gold for 1 hour. You gain temporary hit points equal to twice your paladin level for the duration. Whenever a creature hits you with a melee attack while you have these hit points, gold sprays off your armor, causing the creature to suffer disadvantage on their next attack before the start of their next turn."
+						},
+						{
+							"type":"item",
+							"name":"Hired Help",
+							"entry":"As an action, you can use your Channel Divinity to summon a simple magical construct for one hour. This construct has the statistics of a {@creature commoner}, though it is a construct instead of its normal type. It cannot attack, cast spells, or activate magic items. If it dies or the duration expires, it fades into mist."
+						}
+					]
+				}
 			]
 		},
 		{
-			"name": "Blackthorn Heart",
-			"source": "COFSA",
-			"page": 23,
-			"className": "Warlock",
-			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
-			"subclassSource": "COFSA",
-			"level": 1,
-			"header": 2,
-			"entries": [
-				"At 1st level, you have torn out your heart and replaced it with something otherworldly, granting you the will to survive. You ignore nonmagical difficult terrain. Whenever you fail a death saving throw, your Blackthorn heart bursts from your chest and lashes out with life-stealing briars toward the nearest hostile creature. Make a melee spell attack against an enemy within 15 feet of you. On a hit, the creature takes magical piercing damage equal to your warlock level, and you regain hit points equal to the damage dealt.",
-				"After you recover hit points using this feature, you cannot make this attack again until you finish a short or long rest."
+			"name":"Aura of Investment",
+			"source":"COFSA",
+			"page":32,
+			"className":"Paladin",
+			"classSource":"PHB",
+			"subclassShortName":"Avarice",
+			"subclassSource":"COFSA",
+			"level":7,
+			"header":2,
+			"entries":[
+				"Starting at 7th level, you are surrounded by a 10-foot aura of mutual benefit. Whenever you or a friendly creature gain temporary hit points while within the aura, all other friendly creatures within the aura (including you) gain an equal amount of temporary hit points that last for the same duration. This effect cannot cause a creature to gain more than twice your Charisma modifier in temporary hit points at once.",
+				"At 18th level, the range of this aura increases to 30 feet."
 			]
 		},
 		{
-			"name": "Blackthorn Heart",
-			"source": "COFSA",
-			"page": 23,
-			"className": "Warlock",
-			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
-			"subclassSource": "COFSA",
-			"level": 1,
-			"header": 2,
-			"entries": [
-				"At 1st level, you have torn out your heart and replaced it with something otherworldly, granting you the will to survive. You ignore nonmagical difficult terrain. Whenever you fail a death saving throw, your Blackthorn heart bursts from your chest and lashes out with life-stealing briars toward the nearest hostile creature. Make a melee spell attack against an enemy within 15 feet of you. On a hit, the creature takes magical piercing damage equal to your warlock level, and you regain hit points equal to the damage dealt.",
-				"After you recover hit points using this feature, you cannot make this attack again until you finish a short or long rest."
+			"name":"Rate of Exchange",
+			"source":"COFSA",
+			"page":32,
+			"className":"Paladin",
+			"classSource":"PHB",
+			"subclassShortName":"Avarice",
+			"subclassSource":"COFSA",
+			"level":15,
+			"header":2,
+			"entries":[
+				"Starting at 15th level, once per turn when you hit a creature with an unarmed strike, you can attempt to steal an object or weapon from the target. The target must succeed on a Strength saving throw against your paladin spell save DC or lose the chosen item. If you lack a free hand to steal the item, the attempt automatically fails."
 			]
 		},
 		{
-			"name": "Blackthorn Heart",
-			"source": "COFSA",
-			"page": 23,
-			"className": "Warlock",
-			"classSource": "PHB",
-			"subclassShortName": "Blackthorn Grove",
-			"subclassSource": "COFSA",
-			"level": 1,
-			"header": 2,
-			"entries": [
-				"At 1st level, you have torn out your heart and replaced it with something otherworldly, granting you the will to survive. You ignore nonmagical difficult terrain. Whenever you fail a death saving throw, your Blackthorn heart bursts from your chest and lashes out with life-stealing briars toward the nearest hostile creature. Make a melee spell attack against an enemy within 15 feet of you. On a hit, the creature takes magical piercing damage equal to your warlock level, and you regain hit points equal to the damage dealt.",
-				"After you recover hit points using this feature, you cannot make this attack again until you finish a short or long rest."
+			"name":"Hidden Agenda",
+			"source":"COFSA",
+			"page":32,
+			"className":"Paladin",
+			"classSource":"PHB",
+			"subclassShortName":"Avarice",
+			"subclassSource":"COFSA",
+			"level":20,
+			"header":2,
+			"entries":[
+				"At 20th level, you reveal your true desires to the world and call upon the debts that you are owed. You are empowered as the life force of dozens of debtors is drawn into you. For 1 minute, you gain the following benefits.",
+				{
+					"type":"list",
+					"items":[
+						"You gain 20 temporary hit points at the start of each of your turns that last for the duration of this feature.",
+						"Whenever you steal a weapon using your Rate of Exchange feature, you can immediately make a weapon attack using it. This does not require an action.",
+						"When you hit a creature with a melee weapon attack, you can choose to unleash a blast of golden light. The target must make a Wisdom saving throw against your paladin spell save DC. If they fail, they are blinded until the end of your next turn."
+					]
+				},
+				"Once you use this feature, you can’t do so again until you finish a long rest."
 			]
 		},
+		{
+			"name":"The Eternal Citadel",
+			"source":"COFSA",
+			"page":36,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Eternal Citadel",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"You’ve made a pact with the Eternal Citadel, a massive yet empty bastion that seems to wander between worlds, collecting travelers and releasing them once they agree to serve. The Eternal Citadel communicates through the silent transfer of emotions and feelings – an instinctual sense to follow a course of action, no matter how enigmatic it may seem. An unknown number of people have sworn their allegiance to the Citadel, and few ever meet, but they all serve the same end, known or otherwise: preservation against the forces that seek destruction.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Expanded Spell List|Warlock||Eternal Citadel|COFSA|1"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Righteous Guardian|Warlock||Eternal Citadel|COFSA|1"
+				}
+			]
+		},
+		{
+			"name":"Expanded Spell List",
+			"source":"COFSA",
+			"page":36,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Eternal Citadel",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"The Eternal Citadel lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+				{
+					"type":"table",
+					"caption":"Eternal Citadel Expanded Spells",
+					"colLabels":[
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles":[
+						"col-3 text-center",
+						"col-9"
+					],
+					"rows":[
+						["1st","{@spell defy ruin|COFSA}, {@spell sanctuary}"],
+						["2nd","{@spell arcane lock}, {@spell warding bond}"],
+						["3rd","{@spell glyph of warding}, {@spell Leomund's tiny hut}"],
+						["4th","{@spell Otiluke's resilient sphere}, {@spell stoneskin}"],
+						["5th","{@spell passwall}, {@spell wall of stone}"]
+					]
+				}
+			]
+		},
+		{
+			"name":"Righteous Guardian",
+			"source":"COFSA",
+			"page":36,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Eternal Citadel",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"At 1st level, you gain the ability to shield yourself and others from harm. Whenever you or an ally within 30 feet takes damage, you can use your reaction to create a mystical barrier of energy. The amount of damage taken is reduced by half your warlock level + your Charisma modifier (minimum 1) after applying resistances or vulnerabilities.",
+				"You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses of it when you finish a long rest."
+			]
+		},
+		{
+			"name":"Force of Preservation",
+			"source":"COFSA",
+			"page":36,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Eternal Citadel",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"At 6th level, you gain the ability to fortify yourself further. Whenever you take damage, you can use your reaction to become immune to the damage from that effect or attack, and you gain temporary hit points equal to half your warlock level.",
+				"Once you use this feature, you can’t use it again until you finish a short or long rest."
+			]
+		},
+		{
+			"name":"Builder of Walls",
+			"source":"COFSA",
+			"page":36,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Eternal Citadel",
+			"subclassSource":"COFSA",
+			"level":10,
+			"header":2,
+			"entries":[
+				"At 10th level, your connection with the Eternal Citadel deepens, enabling you to call upon it for defense. You learn two spells with the word “wall” in their name that are of 5th level or lower, they count as warlock spells for you, and they do not count against your total spells known. You can’t choose {@spell wall of force} as one of these spells.",
+				"You can cast one of these two spells once without expending a spell slot. Once you do so, you can’t do so again until you finish a long rest."
+			]
+		},
+		{
+			"name":"Bound to the Aeons",
+			"source":"COFSA",
+			"page":36,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Eternal Citadel",
+			"subclassSource":"COFSA",
+			"level":14,
+			"header":2,
+			"entries":[
+				"At 14th level, your oath to the Eternal Citadel becomes irrevocable. You no longer age and cannot be magically aged. You also do not require food or water.",
+				"Additionally, you can call down an onslaught of timeless power from the central spire of the Citadel to burn away the souls of your foes. During your turn, you can use an action to choose a location that you can see within 200 feet of you. An infinitely tall 10-foot-radius cylinder expands in that space, illuminating it with bright otherworldly light. At the start of your next turn, a beam of golden energy shoots down from the sky, and creatures within the area must make a Charisma saving throw against your warlock spell save DC. If they fail, they take {@dice 7d6} radiant damage, {@dice 7d6} force damage, and are {@condition blinded} until the start of your next turn. If they succeed, they take half as much damage and are not blinded. This beam passes through obstacles without damaging them.",
+				"Once you use this feature, you can’t do so again until you finish a long rest."
+			]
+		},
+		{
+			"name":"Timeless Monumental",
+			"source":"COFSA",
+			"page":37,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"Wandering between worlds, a massive fortress known as the Eternal Citadel collects forlorn travelers, hermits, and sole survivors to work in its service. Trapping these lost souls within its walls until they agree to follow the strange instincts brought on by the emotions and feelings the Citadel silently sends, this mysterious bastion works to preserve and protect all things, destroying only that which would bring ruin and desolation to the world. You are one of the few who have wandered inside at some point in your life, seeking shelter or knowledge, and now the influence of this place becomes clearly felt, granting you power and longevity to fight the forces of destruction for all eternity.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Statuesque Physique|Fighter||Timeless Monumental|COFSA|3"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Gaze of Eternity|Fighter||Timeless Monumental|COFSA|3"
+				}
+			]
+		},
+		{
+			"name":"Statuesque Physique",
+			"source":"COFSA",
+			"page":37,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"At 3rd level, your body begins to gradually become more refined, made perfect and whole in preparation for your work. Any physical deformities that you may have are fixed and your body is made whole again. Lost limbs reform, blemishes vanish, and your visage becomes timeless and clean. You gain advantage on Charisma (Persuasion) and Charisma (Performance) checks. If you take no damage for seven consecutive days, this process of purification and renewal occurs again at sunset."
+			]
+		},
+		{
+			"name":"Gaze of Eternity",
+			"source":"COFSA",
+			"page":37,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"Also at 3rd level, your defensive prowess allows you to halt the progress of your foes. Hostile creatures cannot move through your space. If a hostile creature is within 10 feet of you, the weight of countless ages bears down upon them. If they attempt to move to another space that is further than 10 feet from you, they must first make a Wisdom saving throw with a DC equal to 8 + your proficiency bonus + your Charisma modifier. If they fail, they lose the ability to move farther away from you for the remainder of their turn unless they inflict damage upon you after failing their saving throw."
+			]
+		},
+		{
+			"name":"Witness to Ruin",
+			"source":"COFSA",
+			"page":37,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":7,
+			"header":2,
+			"entries":[
+				"At 7th level, your transformation continues as you become further attuned to the Citadel. You no longer need to eat, drink, breathe, or sleep. In order to gain the benefits of a short or long rest, you must still spend the downtime performing only light activity.",
+				"Your eyes see the small cracks and wear upon everything around you, allowing you to mark the passage of time with perfect accuracy. You can unerringly identify the true age of any person or object that you can clearly see, and you can choose to know the time that the person will die of old age based on their current health, diet, and lifespan, down to the day."
+			]
+		},
+		{
+			"name":"Radiance of the Spire",
+			"source":"COFSA",
+			"page":37,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":10,
+			"header":2,
+			"entries":[
+				"At 10th level, your body and soul are bathed in the glorious light of the Citadel, granting you immortality. You no longer age and cannot be magically aged.",
+				"Whenever you are reduced to 0 hit points, you are automatically stabilized. Once this occurs, you can’t gain this benefit again until you finish a short or long rest."
+			]
+		},
+		{
+			"name":"Titan's Virtue",
+			"source":"COFSA",
+			"page":38,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":15,
+			"header":2,
+			"entries":[
+				"At 15th level, you learn to call upon the triumphant power of the lost ages to contain the ruinous corruption wrought by mortality. Whenever you hit a creature that is within 10 feet of you with a weapon attack, it can't choose to move to a location farther than 10 feet away from you during its next turn. If you move to a location farther than 10 feet away from you during its next turn. If you move to a location farther than 10 feet away from it, then this restriction is lifted."
+			]
+		},
+		{
+			"name":"Price of Preservation",
+			"source":"COFSA",
+			"page":38,
+			"className":"Fighter",
+			"classSource":"PHB",
+			"subclassShortName":"Timeless Monumental",
+			"subclassSource":"COFSA",
+			"level":18,
+			"header":2,
+			"entries":[
+				"At 18th level, you truly comprehend the nature of the Eternal Citadel, causing otherwordly power to pour through you.",
+				"When an ally within 15 feet of you takes damage from an attack, you can use your reaction to intercede on their behalf, teleporting in a flash of light to an unoccupied space within 5 feet of their attacker. The attack hits you instead, regardless if the attack would have missed you had you been the initial target. Immediatly after the attack resolves, the ally can use their reaction to make a weapon attack against their original attacker."
+			]
+		},
+		{
+			"name":"The Fallen Exile",
+			"source":"COFSA",
+			"page":42,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Fallen Exile",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"Stars beyond measure populate the void beyond the world while celestial spheres circle above. You have met with one of their number, cast down by the many cold and unfeeling suns above for the sin of falling in love with a mortal. As punishment, the spiteful and envious stars shined their pale fury upon the paramour, destroying them utterly. The Exile now wanders the world it has been cast upon, appearing as a shimmer of light. Its goal is known only to those whom it trusts, and it grants power to them as it is powerless itself, stripped of interaction with the mortal world for its hubris. It endlessly searches, seeking either a soul of great kindness to help it find the knowledge and power to resurrect its fallen paramour or one unscrupulous enough to wage war upon the very stars themselves. The light shines, but that fire can be cold and merciless, like the wrath of a love destroyed.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Expanded Spell List|Warlock||Fallen Exile|COFSA|1"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Cosmic Conduit|Warlock||Fallen Exile|COFSA|1"
+				}
+			]
+		},
+		{
+			"name":"Expanded Spell List",
+			"source":"COFSA",
+			"page":42,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Fallen Exile",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"The Fallen Exile lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+				{
+					"type":"table",
+					"caption":"Fallen Exile Expanded Spells",
+					"colLabels":[
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles":[
+						"col-3 text-center",
+						"col-9"
+					],
+					"rows":[
+						["1st","{@spell color spray}, {@spell faerie fire}"],
+						["2nd","{@spell continual flame}, {@spell see invisibility}"],
+						["3rd","{@spell blink}, {@spell daylight}"],
+						["4th","{@spell divination}, {@spell greater invisibility}"],
+						["5th","{@spell dispel evil and good}, {@spell falling star|COFSA}"]
+					]
+				}
+			]
+		},
+		{
+			"name":"Cosmic Conduit",
+			"source":"COFSA",
+			"page":42,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Fallen Exile",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"At 1st level, the Exile’s duality of betrayal and compassion infuses your spellcasting, enabling you to reach into the world in the same way that it does. Whenever you cast a spell using a warlock spell slot, you can choose to cast the spell as though you were located in the space of an enemy or ally that you can see within 60 feet. When you cast from the space of an enemy, they take {@dice 1d6} radiant damage. When you cast from the space of an ally, they gain {@dice 1d6} temporary hit points."
+			]
+		},
+		{
+			"name":"Stardust Crusader",
+			"source":"COFSA",
+			"page":42,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Fallen Exile",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"At 6th level, the Exile grants you a portion of the power it stole from the other stars as it fell, allowing access to their spirits. Choose two of the following Dawn Constellations.",
+				{
+					"type":"list",
+					"style":"list-hang-notitle",
+					"items":[
+						{
+							"type":"item",
+							"name":"The Chariot",
+							"entry":"When you take the Attack action, you can take the Dash action as a bonus action."
+						},
+						{
+							"type":"item",
+							"name":"Death",
+							"entry":"You gain proficiency in death saving throws."
+						},
+						{
+							"type":"item",
+							"name":"The Emperor",
+							"entry":"Fire, cold and lightning damage you deal ignores resistance."
+						},
+						{
+							"type":"item",
+							"name":"The Fool",
+							"entry":"Whenever you cast a spell that does not deal damage, you can take the Disengage action as a bonus action."
+						},
+						{
+							"type":"item",
+							"name":"The Hanged Man",
+							"entry":"You gain advantage on ability checks and saving throws to see through illusions."
+						},
+						{
+							"type":"item",
+							"name":"The Lovers",
+							"entry":"You have advantage on saving throws against the charmed condition."
+						},
+						{
+							"type":"item",
+							"name":"The Magician",
+							"entry":"Your spells of 1st level and higher ignore half and three-quarters cover so long as there is nothing between the sky and the target."
+						},
+						{
+							"type":"item",
+							"name":"The Sun",
+							"entry":"You can cast {@spell feather fall} at will without expending a spell slot, and you gain immunity to falling damage."
+						},
+						{
+							"type":"item",
+							"name":"Temperance",
+							"entry":"You gain advantage on Wisdom (Insight) checks made to discern the motives of creatures."
+						},
+						{
+							"type":"item",
+							"name":"The Tower",
+							"entry":"Damage you deal to unattended objects is tripled."
+						},
+						{
+							"type":"item",
+							"name":"The World",
+							"entry":"You learn one cantrip on the wizard spell list and it counts as a warlock cantrip for you. You can replace this cantrip with a different one from the wizard spell list whenever you finish a long rest."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"Under the Night Sky",
+			"source":"COFSA",
+			"page":42,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Fallen Exile",
+			"subclassSource":"COFSA",
+			"level":10,
+			"header":2,
+			"entries":[
+				"At 10th level, you wrest power from the Exile’s true foes with ease. Whenever you finish a long rest, you can exchange your chosen Constellations for different ones. Additionally, you gain resistance to radiant damage."
+			]
+		},
+		{
+			"name":"Astrological Savant",
+			"source":"COFSA",
+			"page":42,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Fallen Exile",
+			"subclassSource":"COFSA",
+			"level":14,
+			"header":2,
+			"entries":[
+				"At 14th level, you have finally usurped the celestial spheres. You can choose two of the following Dusk Constellations and can exchange them using your Under the Night Sky feature.",
+				{
+					"type":"list",
+					"style":"list-hang-notitle",
+					"items":[
+						{
+							"type":"item",
+							"name":"The Devil",
+							"entry":"You have advantage on {@condition Persuasion} checks."
+						},
+						{
+							"type":"item",
+							"name":"The Empress",
+							"entry":"When you finish a short or long rest, you gain temporary hit points equal to half your warlock level."
+						},
+						{
+							"type":"item",
+							"name":"The Hierophant",
+							"entry":"You can cast {@spell water walk} at will targeting only yourself without expending a spell slot. You also gain resistance to fire and acid damage."
+						},
+						{
+							"type":"item",
+							"name":"Justice",
+							"entry":"Whenever you cast a spell using a spell slot, you regain hit points equal to the level of the spell slot expended."
+						},
+						{
+							"type":"item",
+							"name":"The Moon",
+							"entry":"You can cast {@spell enlarge/reduce} without expending a spell slot. Once you do so, you can’t do so again until you finish a short or long rest."
+						},
+						{
+							"type":"item",
+							"name":"The Priestess",
+							"entry":"While this Constellation is selected, your hit point maximum increases by your warlock level."
+						},
+						{
+							"type":"item",
+							"name":"The Star",
+							"entry":"As a bonus action, you can choose to end the charmed or frightened condition on yourself. Once you do so, you can’t do so again until you finish a short or long rest.."
+						},
+						{
+							"type":"item",
+							"name":"Strength",
+							"entry":"You count as one size larger when determining carrying capacity, lifting, grappling, and shoving."
+						},
+						{
+							"type":"item",
+							"name":"The Wheel of Fortune",
+							"entry":"As a bonus action, you can create items worth 25 gp or less. They persist until you use this ability again."
+						}
+					]
+				}
+			]
+		},
+		{
+			"name":"Way of the Black Star",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"The night sky has offered peace and solace in times of turmoil, exposing the insignificance of those who walk upon the earth, yet you do not call out for peace. Your meditations have taken you to the void where the Fallen Exile once shined, filling your spirit with a blackened and sorrowful power. This may have come to pass by the intervention of the Exile, spiritual enlightenment you have sought yourself, or the teachings of a master who has traveled this dark path. Regardless of your original intention, your ki has been corrupted by this unnatural void within the cosmic order, granting you the ability to draw it forth to form a deadly weapon of light and eerie blackness. Fueling your techniques with the anguish of your foes, you strive ever closer to understanding the secrets within the eternal black star that lies at the center of the cosmos.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Void Blade|Monk||Black Star|COFSA|3"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Moonlight Techniques|Monk||Black Star|COFSA|3"
+				}
+			]
+		},
+		{
+			"name":"Void Blade",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"At 3rd level, you learn to pull the corruption in your ki forth to create a weapon from light and shadow. This monk weapon inflicts {@dice 1d8} slashing damage and has the light, finesse, and thrown (30/60) properties. You can choose to manifest this weapon whenever you would attack with it, and it vanishes when it leaves your grasp or after being thrown. You can choose the appearance of this weapon whenever you summon it, but it always appears to be constructed of pure blackness clad in streamers of light."
+			]
+		},
+		{
+			"name":"Moonlight Techniques",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"Also at 3rd level, your meditations unlock the powers hidden within your void blade, and you can channel your ki to activate them. You can spend 1 ki point to cast {@spell black lotus assault|COFSA}, {@spell duskwalk|COFSA}, {@spell falling spider’s spite|COFSA}, or {@spell masterful focus|COFSA} without providing material components."
+			]
+		},
+		{
+			"name":"Acolyte of the Lost Sun",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"At 6th level, your ki begins to manifest around your body as tiny motes of shadow that seek to preserve life even as it is taken. Whenever you cast a spell by spending ki points, you can use your bonus action to enter a defensive stance until the start of your next turn. The first time you take damage while in this stance, you can reduce that damage by three times the number of ki points you spent to cast the spell."
+			]
+		},
+		{
+			"name":"Starlight Techniques",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"Also at 6th level, the darkness within your void blade deepens, granting you further power. Your void blade’s damage is now considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. Additionally, you can spend 2 ki points to cast {@spell tormented flurry|COFSA}, {@spell shadow armor|COFSA}, {@spell dark secret|COFSA}, or {@spell heartripper|COFSA} without providing material components. Finally, you can spend 2 ki points to cast the spells granted by your Moonlight Techniques feature as if they were cast using a 2nd-level spell slot."
+			]
+		},
+		{
+			"name":"Open Soul",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":11,
+			"header":2,
+			"entries":[
+				"At 11th level, your ki has become completely consumed by the space between the stars, leaving you with a soul laid bare to the secrets of the universe and open to consume the ki of others. Whenever you reduce a creature to 0 hit points using a monk weapon or unarmed strike, you gain advantage on your next attack roll, ability check, or saving throw."
+			]
+		},
+		{
+			"name":"Sunless Techniques",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":11,
+			"header":2,
+			"entries":[
+				"Also at 11th level, your devotion to the darkness beyond the sky allows you to call forth even greater power. You can spend 3 ki points to cast {@spell creeping dark|COFSA}, {@spell fox's fangs|COFSA}, {@spell shadow refuge|COFSA}, or {@spell shadow toxin|COFSA} without providing material components. Finally, you can spend 3 ki points to cast the spells granted by your other Path of the Black Star features as if they were cast using a 3rd-level spell slot."
+			]
+		},
+		{
+			"name":"Otherworldly Knowledge",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":17,
+			"header":2,
+			"entries":[
+				"At 17th level, your spiritual journey has led you to gaze into the black heart of the stars themselves, where all light is eventually consumed, and it has gazed into you, granting you the collective wisdom of the universe. As an action, you can open your mind to this for 10 minutes. During this time, you gain proficiency in all skills and tools, and you can use your Wisdom modifier, instead of another ability modifier, for any skill check.",
+				"Once you use this feature, you can’t do so again until you finish a short or long rest."
+			]
+		},
+		{
+			"name":"Eclipse Techniques",
+			"source":"COFSA",
+			"page":44,
+			"className":"Monk",
+			"classSource":"PHB",
+			"subclassShortName":"Black Star",
+			"subclassSource":"COFSA",
+			"level":17,
+			"header":2,
+			"entries":[
+				"Also at 17th level, you complete your explorations of your void blade and have finally seen the truth beyond the dark within. You can spend 4 ki points to cast {@spell assassin's promise|COFSA}, {@spell crimson cloak|COFSA}, {@spell flashing blades|COFSA}, or {@spell unseen claw|COFSA} without providing material components. Finally, you can spend 4 ki points to cast the spells granted by your other Path of the Black Star features as if they were cast using a 4th-level spell slot."
+			]
+		},
+		{
+			"name":"The Forbidden Graveyard",
+			"source":"COFSA",
+			"page":47,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Forbidden Graveyard",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"You’ve stepped into the Forbidden Graveyard, a sanctuary found on the boundary between life and death, where the rare few whose minds are attuned to this place come to wander as their bodies heal or slip away into the cold clutches of the night. Those who embrace the experience and seal shut the Gate of Souls within find themselves gifted with an understanding of both the living and the dead. Unknown to all but those like you, the Gate requires repayment for this mercy, and only the souls of others will do. Choose wisely, for all who cross your path are marked for collection by the Graveyard. It is up to you to safeguard them from that dark plane or to send them there to take your place in the cold embrace of death.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Expanded Spell List|Warlock||Forbidden Graveyard|COFSA|1"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Rejection of the Crypt|Warlock||Forbidden Graveyard|COFSA|1"
+				}
+			]
+		},
+		{
+			"name":"Expanded Spell List",
+			"source":"COFSA",
+			"page":47,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Forbidden Graveyard",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"The Forbidden Graveyard lets you choose from an expanded list of spells when you learn a warlock spell. The above spells are added to the warlock spell list for you.",
+				{
+					"type":"table",
+					"caption":"Forbidden Graveyard Expanded Spells",
+					"colLabels":[
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles":[
+						"col-3 text-center",
+						"col-9"
+					],
+					"rows":[
+						["1st","{@spell inflict wounds}, {@spell mend flesh|COFSA}"],
+						["2nd","{@spell see invisibility}, {@spell suffer|COFSA}"],
+						["3rd","{@spell phantom steed}, {@spell sending}"],
+						["4th","{@spell dark empowerment|COFSA}, {@spell phantasmal killer}"],
+						["5th","{@spell hallow}, {@spell legend lore}"]
+					]
+				}
+			]
+		},
+		{
+			"name":"Rejection of the Crypt",
+			"source":"COFSA",
+			"page":47,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Forbidden Graveyard",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"At 1st level, your refusal to travel through the Gate of Souls has left a mark upon you that cannot be denied. You can add your Charisma modifier to death saving throws, and you gain immunity to effects that would reduce your hit point maximum. While you are at 0 hit points, you can still move, but you can’t take actions, reactions, or bonus actions."
+			]
+		},
+		{
+			"name":"Ghoulish Constitution",
+			"source":"COFSA",
+			"page":47,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Forbidden Graveyard",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"Starting at 6th level, your flesh is filled with the icy chill of the grave. You can choose to allow attacks against you to hit. Whenever you are hit with a melee attack, you can use your reaction to steal life’s precious warmth from your attacker. When you do so, you gain resistance to the damage dealt, and the attacker takes cold damage equal to your warlock level. If the attacker is reduced to 0 hit points by this damage, you gain temporary hit points equal to your warlock level. If you already have temporary hit points, increase those temporary hit points by this amount instead.",
+				"You can use this feature twice, and you regain all expended uses when you finish a short or long rest."
+			]
+		},
+		{
+			"name":"Keeper of Souls",
+			"source":"COFSA",
+			"page":47,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Forbidden Graveyard",
+			"subclassSource":"COFSA",
+			"level":10,
+			"header":2,
+			"entries":[
+				"Starting at 10th level, your gain a measure of control over the spirits that dwell in the Graveyard. Whenever a hostile undead within 60 feet of you is reduced to 0 hit points, you gain temporary hit points equal to your warlock level. Also, you gain resistance to necrotic damage and immunity to effects that would kill you instantly without dealing damage."
+			]
+		},
+		{
+			"name":"Fear the Reaper",
+			"source":"COFSA",
+			"page":47,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Forbidden Graveyard",
+			"subclassSource":"COFSA",
+			"level":14,
+			"header":2,
+			"entries":[
+				"At 14th level, you are as implacable as the specter of death itself. You no longer age and cannot be magically aged. You gain immunity to the {@condition charmed} and {@condition frightened} conditions. As an action, you can mark a creature you can see within 30 feet of you with a terrible curse. When the creature takes damage, you can use your reaction to delay that damage and store it within a pool. At the end of each minute after the curse was cast, the target takes twice as much necrotic damage as is stored in the pool and the pool is emptied. This curse lasts for one hour or until the target dies."
+			]
+		},
+		{
+			"name":"Graverobber",
+			"source":"COFSA",
+			"page":49,
+			"className":"Rogue",
+			"classSource":"PHB",
+			"subclassShortName":"Graverobber",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"You’ve nearly died. Sometime recently, or earlier in your life, you’ve fallen to the brink of death and felt your heartbeat stop. In that moment, far from hope, your spirit wandered the border of life and death, where it entered the Forbidden Graveyard. Amidst the sepulchers and crypts of this haunted dimension, you bore witness to the secrets of life and death, speaking with the fallen whose gaze chilled your very soul. Somehow, you returned from that fallen plane, but it has stained you. Your spirit is filled with both the eerie power of darkness and the flowing force of life, granting you the ability to touch the souls of others directly. You might still be living, but your every step is one of a dead man walking.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Spirit Mending|Rogue||Graverobber|COFSA|3"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Soul Thief|Rogue||Graverobber|COFSA|3"
+				}
+			]
+		},
+		{
+			"name":"Spirit Mending",
+			"source":"COFSA",
+			"page":49,
+			"className":"Rogue",
+			"classSource":"PHB",
+			"subclassShortName":"Graverobber",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"Starting at 3rd level, your unnatural luck and affinity for the energies of life allow you to bring people back from the brink of death. When an ally within 5 feet of you is below half their hit point maximum, you can use your action to pour healing energy into them. The target recovers hit points equal to your rogue level + your Charisma modifier. If the target has been reduced to 0 hit points, they recover half as many hit points instead. Once a creature has been healed by this feature, it can’t be targeted again until it finishes a long rest."
+			]
+		},
+		{
+			"name":"Soul Thief",
+			"source":"COFSA",
+			"page":49,
+			"className":"Rogue",
+			"classSource":"PHB",
+			"subclassShortName":"Graverobber",
+			"subclassSource":"COFSA",
+			"level":3,
+			"entries":[
+				"At 3rd level, you learn to steal the life essence of your enemies, and your connection to the grave grants you incredible power. Whenever you or an undead you control kills a creature with an Intelligence score of 6 or greater, you can choose to harvest a fraction of your victim’s soul, binding it into a small object you keep about your person, such as a gemstone, doll, or weapon. Each object can contain only one such soul at a time.",
+				"As a bonus action, you can choose to unleash one of these enslaved spirits to do your bidding, freeing it from the item. If the spirit was bound to a weapon, you summon a ghostly version of the weapon and use it to make a melee weapon attack with a 15-foot reach. This attack deals force damage. After the attack is made, the ethereal weapon vanishes.",
+				"If the spirit was bound to any other item, its release opens a small, shadowy rift to the Graveyard through the Ethereal Plane. You can teleport to a location that you can see within 10 + 5 times your Charisma modifier (minimum 10) feet of you.",
+				"Whenever you finish a long rest, your powerful soul calls to the Graveyard, bringing forth a number of spirits for you to bind equal to your Charisma modifier (minimum 1). The maximum number of spirits you can have bound at once is equal to twice your Charisma modifier (minimum 2).",
+				"You can choose to release a spirit without effect at any time to make space for a new one."
+			]
+		},
+		{
+			"name":"Whisper to the Fallen",
+			"source":"COFSA",
+			"page":49,
+			"className":"Rogue",
+			"classSource":"PHB",
+			"subclassShortName":"Graverobber",
+			"subclassSource":"COFSA",
+			"level":9,
+			"header":2,
+			"entries":[
+				"Starting at 9th level, your voice gains an unearthly quality, allowing you to commune with the departed. You can cast {@spell speak with dead at will} without expending a spell slot, but you can only target a soul that you have bound to an item. You ignore the requirement that the corpse must still have a mouth when you cast the spell using this feature.",
+				"Spirits summoned from the Graveyard are mindless and rarely have anything interesting to say."
+			]
+		},
+		{
+			"name":"Hangman's Dance",
+			"source":"COFSA",
+			"page":49,
+			"className":"Rogue",
+			"classSource":"PHB",
+			"subclassShortName":"Graverobber",
+			"subclassSource":"COFSA",
+			"level":13,
+			"header":2,
+			"entries":[
+				"At 13th level, your control over the spirits of the dead enables you to bend them more fully to your whims. You gain the ability to cast {@spell animate dead} without expending a spell slot by unleashing one of your bound souls instead.",
+				"You can use this feature twice in this way, and you regain all expended uses of it when you finish long rest.",
+				"Also, you can use your bonus action to cause all friendly undead within 60 feet of you to surge with otherworldly power. Each undead can use its reaction to move up to 30 feet without provoking opportunity attacks and ignoring difficult terrain."
+			]
+		},
+		{
+			"name":"No Rest for the Wicked",
+			"source":"COFSA",
+			"page":49,
+			"className":"Rogue",
+			"classSource":"PHB",
+			"subclassShortName":"Graverobber",
+			"subclassSource":"COFSA",
+			"level":17,
+			"header":2,
+			"entries":[
+				"At 17th level, your darkly stained soul fully reconnects with your body, allowing you to bridge the gap between the Graveyard and the other planes with ease. Whenever you roll initiative, you can choose one hostile creature that you can see within 60 feet of you. That creature is marked by the Gate of Souls as a beacon for the energies of the fallen who lurk within the Graveyard. Once per turn when you deal damage to that creature, you can choose to bind a single soul from the Graveyard to an item in your possession. This mark lasts for one minute."
+			]
+		},
+		{
+			"name":"The Gelatinous Convocation",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"You’ve made a pact with the cheerful wandering cubes of sentient ooze that wiggle and wobble their way across the multiverse. They visit worlds beyond measure with the singular goal of spreading their offspring within the deepest dungeons to collect and absorb the memories of the fallen. As they happily bounce between the planes, they occasionally encounter a soul they view as truly amusing. With a mere wave of their pseudopods, they granted you a measure of their strange power over slimes and oozes. Now, their joy is yours.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Expanded Spell List|Warlock||Gelatinous Convocation|COFSA|1"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Recovered Memories|Warlock||Gelatinous Convocation|COFSA|1"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Cheerful Friend|Warlock||Gelatinous Convocation|COFSA|1"
+				}
+			]
+		},
+		{
+			"name":"Expanded Spell List",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"The Gelatinous Convocation lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.",
+				{
+					"type":"table",
+					"caption":"Gelatinous Convocation Expanded Spells",
+					"colLabels":[
+						"Spell Level",
+						"Spells"
+					],
+					"colStyles":[
+						"col-3 text-center",
+						"col-9"
+					],
+					"rows":[
+						["1st","{@spell grease}, {@spell Tasha's hideous laughter}"],
+						["2nd","{@spell acid arrow}, {@spell enlarge/reduce}"],
+						["3rd","{@spell meld into stone}, {@spell water walk}"],
+						["4th","{@spell stone shape}, {@spell slime sphere|COFSA}"],
+						["5th","{@spell summon slime|COFSA}, {@spell wall of ooze|COFSA}"]
+					]
+				}
+			]
+		},
+		{
+			"name":"Recovered Memories",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"At 1st level, you learn to dissolve the bodies of the dead and learn from their lives. As an action while standing adjacent to a corpse, you can produce an iridescent acid that consumes the corpse over the course of 1 minute.",
+				"Once the process has finished, you can reabsorb the acid to access the creature’s memories. You gain information about the creature’s last 48 hours alive and the most important memories from their final year of life.",
+				"Once you use this feature, you can’t use it again until you finish a long rest."
+			]
+		},
+		{
+			"name":"Cheerful Friend",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":1,
+			"entries":[
+				"At 1st level, you gain the ability to speak with oozes and communicate simple concepts, even if they can’t speak a language. You are not subject to acid damage that would be caused by a non-hostile ooze touching you, and you gain resistance to acid damage."
+			]
+		},
+		{
+			"name":"Side Splitting",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"At 6th level, your body becomes somewhat... slimy. Whenever you suffer damage, you can use your reaction to divide into a Medium swarm of Tiny oozes. Your hit points remain the same, and you function as a single unified swarm that occupies the same space as a Medium creature. While in this state, you can’t take actions other than the Dash action, your movement speed is halved, you gain resistance to bludgeoning, piercing, and slashing damage, you gain immunity to acid and poison damage, you don’t provoke opportunity attacks, and you can move through any space as narrow as 1 inch without squeezing. You can return to your normal form at will without using an action, provided there is room to do so.",
+				"Once you use this feature, you can’t use it again until you finish a long rest. Starting at 10th level, you can use this feature at will as an action. Using this feature as a reaction is still limited to once per long rest."
+			]
+		},
+		{
+			"name":"Acidic Body",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":10,
+			"header":2,
+			"entries":[
+				"At 10th level, your form is infused with caustic power. You gain immunity to acid damage. Whenever a creature starts its turn in a grapple with you, you can choose to have it take {@dice 2d8} acid damage."
+			]
+		},
+		{
+			"name":"Consuming Joy",
+			"source":"COFSA",
+			"page":54,
+			"className":"Warlock",
+			"classSource":"PHB",
+			"subclassShortName":"Gelatinous Convocation",
+			"subclassSource":"COFSA",
+			"level":14,
+			"header":2,
+			"entries":[
+				"Starting at 14th level, your understanding of the happiness that pervades the Gelatinous Convocation grants you immunity to the {@condition charmed} condition. You also gain the ability to cast the {@spell polymorph} spell, but the target can only be turned into an ooze. You can cast this spell using a warlock spell slot or without expending a spell slot. When you cast it without expending a spell slot, you can’t do so again until you finish a long rest."
+			]
+		},
+		{
+			"name":"Esoteric Plasmology",
+			"source":"COFSA",
+			"page":56,
+			"className":"Wizard",
+			"classSource":"PHB",
+			"subclassShortName":"Plasmology",
+			"subclassSource":"COFSA",
+			"level":2,
+			"entries":[
+				"It is common for one to ask a disciple of this tradition: “Are you a wizard that casts ooze-related spells, or an ooze that is a wizard?”",
+				"The truth is, both are correct.",
+				"Esoteric plasmology has long ties to the Gelatinous Convocation, which wanders between worlds spreading happy, cheerful slimes to all corners of the multiverse. Though direct interaction with the Convocation is uncommon for practitioners of this tradition, many are apprenticed to more powerful ooze wizards for a time as they learn to control their newfound power. While the slime core that awakens within a practitioner seems to grant a surprising amount of control over one’s form, careful study and research is required to coax the more powerful magics from this arcane phenomenon. As such, ooze wizards traditionally adventure in order to expand their knowledge of the physical world, enjoying a life of leisure and hardship alike in their quests for purpose and power.",
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Primodrial Form|Wizard||Plasmology|COFSA|2"
+				},
+				{
+					"type":"refSubclassFeature",
+					"subclassFeature":"Simply Slippery|Wizard||Plasmology|COFSA|2"
+				}
+			]
+		},
+		{
+			"name":"Primordial Form",
+			"source":"COFSA",
+			"page":56,
+			"className":"Wizard",
+			"classSource":"PHB",
+			"subclassShortName":"Plasmology",
+			"subclassSource":"COFSA",
+			"level":2,
+			"entries":[
+				"When you choose this tradition at 2nd level, a slime core develops within your body, allowing you to assume the primordial form of the first acolytes of the Convocation. As an action, you can enter a primordial form, filling yourself with the giddy glee of an ooze and changing your appearance to appear as a slime-like caricature of your normal form. You gain advantage on Charisma checks and gain resistance to acid damage, but you suffer disadvantage on Wisdom checks. You can exit this form as an action, though doing so requires a successful Wisdom saving throw against your spell save DC."
+			]
+		},
+		{
+			"name":"Simply Slippery",
+			"source":"COFSA",
+			"page":56,
+			"className":"Wizard",
+			"classSource":"PHB",
+			"subclassShortName":"Plasmology",
+			"subclassSource":"COFSA",
+			"level":2,
+			"entries":[
+				"Also at 2nd level, your newfound malleability and magical aptitude grants you several benefits. You can use an action to begin to emit bright light in a 10-foot radius, and dim light in a 20-foot radius.",
+				"Whenever you would suffer damage from falling, you can use your reaction to reduce the damage taken by four times your wizard level.",
+				"Finally, you can squeeze through spaces at least 5 inches wide, even if you would not normally fit."
+			]
+		},
+		{
+			"name":"Weird Magic",
+			"source":"COFSA",
+			"page":56,
+			"className":"Wizard",
+			"classSource":"PHB",
+			"subclassShortName":"Plasmology",
+			"subclassSource":"COFSA",
+			"level":6,
+			"header":2,
+			"entries":[
+				"At 6th level, the mystical motions you perform when casting spells become fluid and warped, causing slime to drip from your fingertips with every gesture. Whenever you cast a spell, you can choose an unoccupied space within 10 feet of you. The coiling ooze from your hands assembles in this space, forming a 5-foot cube of colorful slime. This slime is immobile, provides half cover, has an AC of 6, and has hit points equal to your wizard level. The slime remains until you dismiss it (no action required) or it is destroyed.",
+				"As a bonus action, you can cause one of these slimes to extend a pseudopod to grab a creature within 5 feet of it. The target must make a Strength saving throw against your wizard spell save DC. If they fail, they are grappled by the cube. The DC to escape from the grapple is equal to your spell save DC."
+			]
+		},
+		{
+			"name":"Caustic Viscosity",
+			"source":"COFSA",
+			"page":56,
+			"className":"Wizard",
+			"classSource":"PHB",
+			"subclassShortName":"Plasmology",
+			"subclassSource":"COFSA",
+			"level":10,
+			"header":2,
+			"entries":[
+				"At 10th level, the magic you wield becomes further infused with ooze. Whenever you cast a spell with a duration of “Instantaneous” that affects an area, you can use a bonus action to summon a mass of slime in the area. The ground within the area becomes difficult terrain for one minute, or until another spell is cast targeting the area that inflicts fire, cold, or necrotic damage. Creatures that end their turn within the area suffer 1d6 acid damage. You ignore the effects of this slime."
+			]
+		},
+		{
+			"name":"Cheerful Recollection",
+			"source":"COFSA",
+			"page":56,
+			"className":"Wizard",
+			"classSource":"PHB",
+			"subclassShortName":"Plasmology",
+			"subclassSource":"COFSA",
+			"level":14,
+			"header":2,
+			"entries":[
+				"At 14th level, your mastery of the arts of esoteric plasmology has granted you a connection with the Gelatinous Convocation, allowing you to tap into their understanding of the world through the creatures they have gracefully consumed. Whenever you are in your primordial form, you can add your proficiency bonus to any skill or ability check you make.",
+				"Additionally, you learn to cast speak with dead as a ritual."
+			]
+		}
 	]
 }
